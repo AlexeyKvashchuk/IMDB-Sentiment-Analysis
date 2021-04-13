@@ -1,7 +1,7 @@
 # **IMDb Movie Reviews (Sentiment Analysis)** 
 
 
-In this project I use a particular type of data augmentation/transformation technique to achieve a state-of-the-art result/accuracy (92.14%) on IMDb sentiment analysis (as compared to pre-BERT/transformers models; in particular, wthout using extra training data or pre-training). 
+In this project I use a particular type of data augmentation/transformation technique to achieve a state-of-the-art result/accuracy (**92.14%**) on IMDb sentiment analysis (as compared to pre-BERT/transformers models; in particular, wthout using extra training data or pre-training). 
 
 
 ## IMDb Sentiment Analysis
